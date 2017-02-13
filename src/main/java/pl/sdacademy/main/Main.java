@@ -18,6 +18,7 @@ public class Main extends Application {
 	/*
 	 * (non-Javadoc)
 	 * 
+	 * 
 	 * @see javafx.application.Application#start(javafx.stage.Stage)
 	 */
 	@Override
